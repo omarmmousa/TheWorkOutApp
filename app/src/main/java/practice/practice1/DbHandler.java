@@ -1,3 +1,9 @@
+/**
+ * Will look into sending data as a JSON object to remote DB (Preferable Oracle SQL)
+ * will need to looking into Encrypting password data with AES256
+ */
+
+
 package practice.practice1;
 
 import android.content.ContentValues;
@@ -6,9 +12,6 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
-import android.widget.EditText;
-import java.util.ArrayList;
-import java.util.List;
 
 
 public class DbHandler extends SQLiteOpenHelper {

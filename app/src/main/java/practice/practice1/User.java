@@ -1,3 +1,7 @@
+/**
+ * User Class , helper file to store data into Database
+ */
+
 package practice.practice1;
 
 import android.content.Context;
