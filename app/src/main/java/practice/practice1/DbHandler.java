@@ -87,7 +87,7 @@ public class DbHandler extends SQLiteOpenHelper {
                 user.setLname(cursor.getString(2));
                 user.setEmail(cursor.getString(3));
                 user.setPasswd(cursor.getString(4));
-                // Adding contact to list
+                // Adding user to list
                 users.add(user);
             } while (cursor.moveToNext());
         }

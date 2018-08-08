@@ -60,8 +60,8 @@
       <file leaf-file-name="DbHandler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/practice/practice1/DbHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="795">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <state relative-caret-position="261">
+              <caret line="89" column="30" lean-forward="false" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#863#864#0" expanded="true" />
@@ -2312,11 +2312,11 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/practice/practice1/DBhandler.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/practice/practice1/User.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/practice/practice1/DbHandler.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/practice/practice1/Register.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/practice/practice1/Welcome.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_welcome.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/practice/practice1/DbHandler.java" />
       </list>
     </option>
   </component>
@@ -2912,8 +2912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/practice/practice1/DbHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        <state relative-caret-position="261">
+          <caret line="89" column="30" lean-forward="false" selection-start-line="89" selection-start-column="30" selection-end-line="89" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#863#864#0" expanded="true" />
