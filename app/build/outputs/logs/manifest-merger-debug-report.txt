@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
+ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/f762bda692fb515c5af2333d903081aa/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/98343a9aa6a98fcda66b5349d13306ab/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Omar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d33e70f8ff57be59ff012c07d3f6c946/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/95dca24df6802d7c649d2acc8682d430/AndroidManifest.xml:17:1-22:12
@@ -12,6 +13,7 @@ MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /Users/Om
 MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/f449ea244d03b41ec6ab96d03897b346/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/8bba24d7d4aba2e7ed2cc6bcef00ab87/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/ff4de5a04497061c53bddda612baf4f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/167691ff64fc3d5dc851a4980fede2fd/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:loader:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/373fc2bfeab02c1427261912eba6a658/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/a8b022f413c0ec56b897452c096687e8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/203553c314215167ebdad0a195f52212/AndroidManifest.xml:17:1-22:12
@@ -23,6 +25,7 @@ MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /Users/Omar/.g
 MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/86c557a79cd847275f81f305a17b03d7/AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/a6e9d3160d679e4b761de539f5415ae0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/d4a9216340fee97a309b6919fdbbd0ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/0bc16ad8899a8d3421c07baab6e086c3/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Omar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/679130ae3aae8074b26aa70b32e716fa/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/31073abca475921fe7b19b539f4fedc9/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/bc5d4a0cf637c6460b3c8fd62ae102bc/AndroidManifest.xml:17:1-22:12
@@ -31,25 +34,27 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/Omar/.gradle/caches/
 MERGED from [com.android.support:interpolator:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/5190854159c0df5e5ea5a445c0f6e082/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/Omar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/09bd5604177d0f0f51e44bdde621c988/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] /Users/Omar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0c6ca6fe2c29a237360f985b6f569525/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
-INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-27:12
+		ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:1-28:12
 		INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:5:5-25:19
+ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:5:5-26:19
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/f762bda692fb515c5af2333d903081aa/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/f762bda692fb515c5af2333d903081aa/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Omar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d33e70f8ff57be59ff012c07d3f6c946/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Omar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d33e70f8ff57be59ff012c07d3f6c946/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/86c557a79cd847275f81f305a17b03d7/AndroidManifest.xml:22:5-94
@@ -98,10 +103,16 @@ activity#practice.practice1.Welcome
 ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:24:9-54
 	android:name
 		ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:24:19-42
+activity#practice.practice1.Profile
+ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:25:9-54
+	android:name
+		ADDED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml:25:19-42
 uses-sdk
 INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml
 INJECTED from /Users/Omar/Desktop/TheWorkOut/Practice1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/f762bda692fb515c5af2333d903081aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/f762bda692fb515c5af2333d903081aa/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/98343a9aa6a98fcda66b5349d13306ab/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/98343a9aa6a98fcda66b5349d13306ab/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/Omar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d33e70f8ff57be59ff012c07d3f6c946/AndroidManifest.xml:5:5-7:41
@@ -118,6 +129,8 @@ MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/Omar/.gr
 MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/8bba24d7d4aba2e7ed2cc6bcef00ab87/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/ff4de5a04497061c53bddda612baf4f5/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/ff4de5a04497061c53bddda612baf4f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/167691ff64fc3d5dc851a4980fede2fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/167691ff64fc3d5dc851a4980fede2fd/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/373fc2bfeab02c1427261912eba6a658/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:loader:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/373fc2bfeab02c1427261912eba6a658/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:viewpager:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/a8b022f413c0ec56b897452c096687e8/AndroidManifest.xml:20:5-44
@@ -140,6 +153,8 @@ MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/Omar/.g
 MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/a6e9d3160d679e4b761de539f5415ae0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/d4a9216340fee97a309b6919fdbbd0ac/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/d4a9216340fee97a309b6919fdbbd0ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/0bc16ad8899a8d3421c07baab6e086c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/0bc16ad8899a8d3421c07baab6e086c3/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Omar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/679130ae3aae8074b26aa70b32e716fa/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/Omar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/679130ae3aae8074b26aa70b32e716fa/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:documentfile:28.0.0-rc01] /Users/Omar/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/31073abca475921fe7b19b539f4fedc9/AndroidManifest.xml:20:5-44

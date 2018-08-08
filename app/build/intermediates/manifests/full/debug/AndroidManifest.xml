@@ -31,6 +31,7 @@
         </activity>
         <activity android:name="practice.practice1.Register" />
         <activity android:name="practice.practice1.Welcome" />
+        <activity android:name="practice.practice1.Profile" />
     </application>
 
 </manifest>

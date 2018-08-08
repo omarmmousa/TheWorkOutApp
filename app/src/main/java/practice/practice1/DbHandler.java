@@ -5,6 +5,7 @@ import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.database.sqlite.SQLiteDatabase;
+import android.util.Log;
 import android.widget.EditText;
 import java.util.ArrayList;
 import java.util.List;
@@ -35,6 +36,12 @@ public class DbHandler extends SQLiteOpenHelper {
         db.execSQL(CREATE_TABLE_NAME);
     }
 
+    public Cursor getUser(SQLiteDatabase db) {
+        String SELECT_USER = "SELECT * FROM " + TABLE_NAME;
+        Log.d("User: ", "Users: ");
+        return db.rawQuery(SELECT_USER, null);
+    }
+
     @Override
     public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
         // Drop older table if existed
@@ -57,42 +64,11 @@ public class DbHandler extends SQLiteOpenHelper {
         db.close();
     }
 
-     User getUser(int id){
-        SQLiteDatabase db = this.getReadableDatabase();
-
-        Cursor cursor = db.query(TABLE_NAME, new String[]{KEY_FIRST_NAME, KEY_LAST_NAME, KEY_EMAIL, KEY_PASSWORD}, KEY_ID + "=?",
-                new String[]{String.valueOf(id)}, null, null, null, null);
-        if (cursor != null)
-            cursor.moveToFirst();
-
-        User user = new User(Integer.parseInt(cursor.getString(0)),
-                cursor.getString(1), cursor.getString(2), cursor.getString(3), cursor.getString(4));
+    public Cursor getUserinfo(){
+        SQLiteDatabase db = this.getWritableDatabase();
+        Cursor user = db.rawQuery("select * from " + TABLE_NAME, null);
         return user;
     }
 
-    public List<User> getUsers() {
-        List<User> users = new ArrayList<User>();
-        // Select All Query
-        String selectQuery = "SELECT  * FROM " + TABLE_NAME;
 
-        SQLiteDatabase db = this.getWritableDatabase();
-        Cursor cursor = db.rawQuery(selectQuery, null);
-
-        // looping through all rows and adding to list
-        if (cursor.moveToFirst()) {
-            do {
-                User user = new User();
-                user.setId(Integer.parseInt(cursor.getString(0)));
-                user.setFname(cursor.getString(1));
-                user.setLname(cursor.getString(2));
-                user.setEmail(cursor.getString(3));
-                user.setPasswd(cursor.getString(4));
-                // Adding user to list
-                users.add(user);
-            } while (cursor.moveToNext());
-        }
-
-        // return contact list
-        return users;
-    }
 }
